@@ -17,3 +17,6 @@ class BlogViewSet(viewsets.ModelViewSet):
     ordering_fields = [
         "created_at",
     ]
+
+    def get_queryset(self):
+        return self.queryset.filter(name="Ray")
