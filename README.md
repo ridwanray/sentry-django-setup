@@ -1,6 +1,7 @@
 # Django and Senty setup
 Your software applications need monitoring. <br>
 This codebase showcase how to use Sentry with Django for monitoring
+This article has complete guide:  [check here](https://ridwanray.medium.com/how-to-monitor-a-django-application-with-sentry-de3ec31fa1f2?source=friends_link&sk=66d9d5312e78ae5048d85910c833151d)
 
 # Setup & running locally
 
@@ -52,4 +53,7 @@ Run the server using:
 python manage.py runserver
 ```
 
-![Screenshot](screenshot.png)
+![Screenshot](screenshot1.png) <br><br>
+![Screenshot](screenshot2.png) <br><br>
+![Screenshot](screenshot3.png) <br><br>
+![Screenshot](screenshot3.png)
