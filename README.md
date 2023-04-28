@@ -1,8 +1,6 @@
-# Django and AWS S3 buckets for files management
-This is the codebase to setup Django application to use s3 bucket for:<br>
-* file upload
-* media files
-* static files
+# Django and Senty setup
+Your software applications need monitoring. <br>
+This codebase showcase how to use Sentry with Django for monitoring
 
 # Setup & running locally
 
